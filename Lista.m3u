@@ -1,0 +1,16 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-shift = 0 tvg-name = "TeenNick" tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwngevg3c8t1V_Fj2GoS6RVlnSmeVAhHy2_s4vh0qwQ=s900-c-k-c0x00ffffff-no-rj", TeenNick
+https://micine.club/126/fastcgi.m3u8
+
+#EXTINF: -1 tvg-shift = 0 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
+https://micine.club/124/fastcgi.m3u8
+
+#EXTINF: -1 tvg-shift = 0 tvg-name = "Nick Jr" tvg-logo = "https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg", Nick Jr
+https://micine.club/125/fastcgi.m3u8
+
+#EXTINF: -1 tvg-shift = 0 tvg-name = "Canal 5" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
+https://micine.club/145/fastcgi.m3u8
+
+#EXTINF: 0 tvg-shift = 0 tvg-name = "Bob Esponja" tvg-logo = "https://nick.mtvnimages.com/uri/mgid:arc:content:mundonick.com:1ed07e4b-3455-4899-ab4c-4063a61539bd?quality=0.7&width=600&height=338&crop=true", BOB ESPONJA | S9 | EPISODIO 281 | LICENCIA DE MALTEADAS / BEBÉ CALAMARDO 
+https://dlvrsvc.mtvnservices.com/api/playlist/gsp.alias/mediabus/2020/03/20/02/24/29/c806791f026844498ae868b65d1dc328/1747339/0/stream_1280x720_2035965_3488058097.m3u8?tk=st=1606191283~exp=1606205683~acl=/api/playlist/gsp.alias/mediabus/2020/03/20/02/24/29/c806791f026844498ae868b65d1dc328/1747339/0/stream_1280x720_2035965_3488058097.m3u8*~hmac=cc2079b1df8be427ebd9c233a1c561fedce79a6755051f5f49b5de3ed0903f9b&account=intl.mtvi.com&cdn=ns1
