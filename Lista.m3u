@@ -3,8 +3,11 @@
 #EXTINF: -1 tvg-shift = 0 tvg-name = "TeenNick" tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwngevg3c8t1V_Fj2GoS6RVlnSmeVAhHy2_s4vh0qwQ=s900-c-k-c0x00ffffff-no-rj", TeenNick
 https://micine.club/126/fastcgi.m3u8
 
-#EXTINF: -1 tvg-shift = 0 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
+#EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
 https://espare.tk/live/nick_lat.m3u8?token=rNkY756jEfBO6tGSQbiqkQ&expires=1606485844
+
+#EXTINF: -1 tvg-shift = 2 tvg-name = "Discovery Home & Health" tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwniHFzdy0CXR7ireZfmDdDS89b6GKNsHj5WKyJv0Mg=s900-c-k-c0x00ffffff-no-rj", Discovery Home & Health
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=99MdKtpk43Fyp-ifZOmO1g&expires=1606486637
 
 #EXTINF: -1 tvg-shift = 0 tvg-name = "Nick Jr" tvg-logo = "https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg", Nick Jr
 https://micine.club/125/fastcgi.m3u8
