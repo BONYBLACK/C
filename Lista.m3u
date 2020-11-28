@@ -39,6 +39,5 @@ https://r7---sn-0opoxu-ihvd.googlevideo.com/videoplayback?expire=1606570188&ei=b
 #EXTINF: -1 tvg-shift = 13 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
 https://r7---sn-0opoxu-ihvd.googlevideo.com/videoplayback?expire=1606570188&ei=bPzBX_OKJKWP2_gP7M6w-A0&ip=200.68.135.50&id=21X5lGlDOfg.3&itag=298&aitags=133%2C134%2C135%2C136%2C160%2C298&source=yt_live_broadcast&requiressl=yes&mh=N8&mm=44%2C29&mn=sn-0opoxu-ihvd%2Csn-a5meknel&ms=lva%2Crdu&mv=m&mvi=7&pl=24&usequic=no&initcwndbps=171250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=gKa0K9S0qOyAMNi12fGWu0YF&gir=yes&mt=1606548263&fvip=5&keepalive=yes&beids=9466588&c=WEB_EMBEDDED_PLAYER&n=YnNlrSt2aMsMUmVbWHD&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMKGa_M7ysl4V2Sv5q7TUDwnh6RfUsTSXpohjli-DAqTAiEAoMdfuvzLyQCg_83xmMLQKPlbGUhQ8fw6qWGC_H2O_1k%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cusequic%2Cinitcwndbps&lsig=AG3C_xAwRQIgWO1-lhvPMhgWDkvLmrkwiw3sk9MuowohcLJuIWkZ5qUCIQD8MPlcAECO9GzdpauUbiWEGvJimaRI6T43JZVP_tQzfg%3D%3D
 
-#EXTINF: -1 tvg-shift = 14 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deportes", ESPN
+#EXTINF: -1 tvg-shift = 14 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
 https://espare.tk/live/espn_plus_lat.m3u8?token=krMNgq_PZwlbercF-siEwQ&expires=1606621099
-
