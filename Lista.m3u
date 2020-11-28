@@ -1,19 +1,35 @@
 # EXTM3U
 
-#EXTINF: -1 tvg-shift = 0 tvg-name = "TeenNick" tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwngevg3c8t1V_Fj2GoS6RVlnSmeVAhHy2_s4vh0qwQ=s900-c-k-c0x00ffffff-no-rj", TeenNick
-https://micine.club/126/fastcgi.m3u8
-
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
 https://espare.tk/live/nick_lat.m3u8?token=3RhnlgIy2RXI3uQlz6lN7g&expires=1606553745
 
-#EXTINF: -1 tvg-shift = 2 tvg-name = "Discovery Home & Health" tvg-logo = "https://yt3.ggpht.com/ytc/AAUvwniHFzdy0CXR7ireZfmDdDS89b6GKNsHj5WKyJv0Mg=s900-c-k-c0x00ffffff-no-rj", Discovery Home & Health
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=99MdKtpk43Fyp-ifZOmO1g&expires=1606486637
+#EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
+https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=8V4QJjcCJMf65E0FATv2vw&expires=1606569429
 
-#EXTINF: -1 tvg-shift = 0 tvg-name = "Nick Jr" tvg-logo = "https://www.licensingmagazine.com/wp-content/uploads/2017/03/Nick_Jr._Logo.jpg", Nick Jr
-https://micine.club/125/fastcgi.m3u8
+#EXTINF: -1 tvg-shift = 3 tvg-name = "Discovery Kids" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
+https://espare.tk/live/discovery_kids_lat.m3u8?token=cO8VhOzEv-t_qzz4EQuK7g&expires=1606567948
 
-#EXTINF: -1 tvg-shift = 0 tvg-name = "Canal 5" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png", Canal 5
-https://micine.club/145/fastcgi.m3u8
+#EXTINF: -1 tvg-shift = 4 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
+https://espare.tk/live/disney_channel_lat.m3u8?token=9os9vtyRuRfsxcO4ZD7IxA&expires=1606568058
 
-#EXTINF: 0 tvg-shift = 0 tvg-name = "Bob Esponja" tvg-logo = "https://nick.mtvnimages.com/uri/mgid:arc:content:mundonick.com:1ed07e4b-3455-4899-ab4c-4063a61539bd?quality=0.7&width=600&height=338&crop=true", BOB ESPONJA | S9 | EPISODIO 281 | LICENCIA DE MALTEADAS / BEBÉ CALAMARDO 
-https://dlvrsvc.mtvnservices.com/api/playlist/gsp.alias/mediabus/2020/03/20/02/24/29/c806791f026844498ae868b65d1dc328/1747339/0/stream_1280x720_2035965_3488058097.m3u8?tk=st=1606191283~exp=1606205683~acl=/api/playlist/gsp.alias/mediabus/2020/03/20/02/24/29/c806791f026844498ae868b65d1dc328/1747339/0/stream_1280x720_2035965_3488058097.m3u8*~hmac=cc2079b1df8be427ebd9c233a1c561fedce79a6755051f5f49b5de3ed0903f9b&account=intl.mtvi.com&cdn=ns1
+#EXTINF: -1 tvg-shift = 5 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD
+https://espare.tk/live/disney_xd_lat.m3u8?token=QRgGr4TDrzAITf3DQKX3kg&expires=1606568468
+
+#EXTINF: -1 tvg-shift = 6 tvg-name = "Cartoon Networks" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Networks
+https://espare.tk/live/cartoon_network_lat.m3u8?token=Qks6nu7pEsqp_elwhY2QIw&expires=1606568649
+
+#EXTINF: -1 tvg-shift = 7 tvg-name = "Discovery Home and Health" tvg-logo = "https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png", Discovery Home and Health
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=etCcPomcFTV-aUdtMxStOg&expires=1606568744
+
+#EXTINF: -1 tvg-shift = 8 tvg-name = "Animal Planet" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png", Animal Planet
+https://espare.tk/live/animal_planet_lat.m3u8?token=XaguaQ8WVuUpPG8ykm-TKg&expires=1606568940
+
+#EXTINF: -1 tvg-shift = 9 tvg-name = "HBO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO
+https://espare.tk/live/hbo_lat.m3u8?token=uG5Z9Mk_9UMARdYD3orang&expires=1606569044
+
+#EXTINF: -1 tvg-shift = 10 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
+https://espare.tk/live/fox_lat.m3u8?token=C7qMeSh1w1VJVhoeNez26g&expires=1606569133
+
+#EXTINF: -1 tvg-shift = 11 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
+
+
