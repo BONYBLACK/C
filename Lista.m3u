@@ -69,14 +69,17 @@ https://espare.tk/live/discovery_channel.m3u8?token=s4vMWenb5arilZgUQhZ8JQ&expir
 #EXTINF: -1 tvg-shift = 23 tvg-name = "National Geographic" tvg-logo = "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000", National Geographic
 https://espare.tk/live/nat_geographic_lat.m3u8?token=sykLUMrER7eKQb-GnAf1rg&expires=1606702223
 
-#EXTINF: -1 tvg-shift = 24 tvg-name = "iCarly. Episodio 06. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 06. Temporada 2
+#EXTINF: -1 tvg-shift = 24 tvg-name = "Los Simpson 24 horas" tvg-logo = "https://unnimedios.com.mx/wp-content/uploads/2020/10/FOTO-NOTA-REFLECTOR-1-SIMPSONS-22102020.jpg", Los Simpson 24 horas
+https://r6---sn-0opoxu-ihvz.googlevideo.com/videoplayback?expire=1606702369&ei=wQDEX_WBDYraNrj3s-gM&ip=200.68.135.201&id=iHa3c2chQzc.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=yd&mm=44%2C29&mn=sn-0opoxu-ihvz%2Csn-a5msen7s&ms=lva%2Crdu&mv=m&mvi=6&pl=24&usequic=no&initcwndbps=161250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=RNEarHax1b3aa1WD7V9nad4F&gir=yes&mt=1606680506&fvip=2&keepalive=yes&beids=9466586&c=WEB_EMBEDDED_PLAYER&n=-Rbwd9RkvkL3h9UvHD3&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAN6b16_khMui0pe5iY8L_olPmZvw-r4rDgiBtevNmRc-AiBvcUHL2-mzI0I2j3sKnuSsE3s9ZwvGyvXQ-7SHpcReog%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cusequic%2Cinitcwndbps&lsig=AG3C_xAwRAIgK6S7xcWeFyB0hpKeW6aefz7ljvpPVyQEzAlugWM-FUwCIGawFpTwaH6FfAd0SLpyaoz9g46fVWCM9RoWRh1EIgNM
+
+#EXTINF: -1 tvg-shift = 25 tvg-name = "iCarly. Episodio 06. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 06. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_143338107496041_2597223351248755597_n.mp4?_nc_cat=100&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeFrEV0ohLZArWUHte0-IJNhxTOA-LWcu7_FM4D4tZy7v3MmFcxsXFHOgrLg6c0LsMdEQVsOGg2LTw1xR0LEg9FG&_nc_ohc=NEUcceusFYAAX8GU4Vp&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=b21e613f11c5107bd59b4cde64295951&oe=5FEADFD7
 
-#EXTINF: -1 tvg-shift = 25 tvg-name = "iCarly. Episodio 01. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
+#EXTINF: -1 tvg-shift = 26 tvg-name = "iCarly. Episodio 01. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_3466895693399957_8454631915748603526_n.mp4?_nc_cat=104&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGK6V1zjL3wQJqzg6xRxkPbvMBnCGzeipe8wGcIbN6Kl6ppF5KfuTCdmqFp8YlpuweMfG6wlYO0G9v9571Kk2T4&_nc_ohc=H2st8q7AfHUAX-WDkSC&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=3eed78fadd6f827864ca6458b8c10dac&oe=5FEA84AA
 
-#EXTINF: -1 tvg-shift = 26 tvg-name = "iCarly. Episodio 11. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 11. Temporada 2
+#EXTINF: -1 tvg-shift = 27 tvg-name = "iCarly. Episodio 11. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 11. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_708542843378581_7707889282742735510_n.mp4?_nc_cat=111&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeEMkU3aD3sLsw9RtlJx0SnPBfHELwqfdEgF8cQvCp90SJOWmccvf49cANo4L44QyNucoxW_NfwLE6EZpY-Xu8j3&_nc_ohc=vPzzyPgqAUUAX-FgTKV&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=4c9aec447df0c7a8f7aa382369bd6b34&oe=5FE72B50
 
-#EXTINF: -1 tvg-shift = 27 tvg-name = "iCarly. Episodio 13. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 13. Temporada 2
+#EXTINF: -1 tvg-shift = 28 tvg-name = "iCarly. Episodio 13. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 13. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_2788970984701063_9102884674521753465_n.mp4?_nc_cat=106&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGiYvlU0oyb1HjNdg5G1jAioD3vCi3d_aGgPe8KLd39ofJSLh7oEp33Cs7yOXZCvIpTSpT0FY7XHZlbtpFzKUy2&_nc_ohc=7GM8yMBaug0AX9TgXUp&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=4da07c5ad569adf61985a8a840e4eaed&oe=5FEAD75C
