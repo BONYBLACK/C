@@ -1,64 +1,82 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://live.televisiongratishd.com/tvplus2021/110_.m3u8?token=X98wooImOX-iei-obhesjA&expires=1606631785
+https://espare.tk/live/nick_lat.m3u8?token=VgFY4J7d4TSOByHR2ABf_g&expires=1606699754
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
 
-#EXTINF: -1 tvg-shift = 3 tvg-name = "Nick Toons" tvg-logo = "https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600", Nick Jr
-https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600
+#EXTINF: -1 tvg-shift = 3 tvg-name = "Nick Toons" tvg-logo = "https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600", Nick Toons
+https://espare.tk/live/nicktoons_lat.m3u8?token=KJzMx4ufyf7hT3ObyU-pqQ&expires=1606700636
 
 #EXTINF: -1 tvg-shift = 4 tvg-name = "Discovery Kids" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
-https://espare.tk/live/discovery_kids_lat.m3u8?token=U2vbontDoSalE-qcCrpbjA&expires=1606629200
+https://espare.tk/live/discovery_kids_lat.m3u8?token=b3ecL2wedVT3HG_PopVjxg&expires=1606701162
 
-#EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel-No disponible
-https://espare.tk/live/disney_channel_lat.m3u8?token=9os9vtyRuRfsxcO4ZD7IxA&expires=1606568058
+#EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
+https://espare.tk/live/disney_channel_lat.m3u8?token=tPwRSkReBT5K5onmkdLBKQ&expires=1606701205
 
 #EXTINF: -1 tvg-shift = 6 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD-No disponible
-https://espare.tk/live/disney_xd_lat.m3u8?token=QRgGr4TDrzAITf3DQKX3kg&expires=1606568468
+https://espare.tk/live/disney_xd_lat.m3u8?token=r4l0ib57PM0gA6uRFhfYDg&expires=1606701244
 
-#EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks - No disponible
-https://espare.tk/live/cartoon_network_lat.m3u8?token=Qks6nu7pEsqp_elwhY2QIw&expires=1606568649
+#EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks
+https://espare.tk/live/cartoon_network_lat.m3u8?token=9dHQLXA3iajBuuXIDGKk_w&expires=1606701270
 
 #EXTINF: -1 tvg-shift = 8 tvg-name = "Discovery Home and Health" tvg-logo = "https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png", Discovery Home and Health
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=PQWL0mp69pPRg1rAUIIigA&expires=1606632590
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=HxBxFoUyEEquk3IjBBQLOQ&expires=1606701316
 
 #EXTINF: -1 tvg-shift = 9 tvg-name = "Animal Planet" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png", Animal Planet
-https://espare.tk/live/animal_planet_lat.m3u8?token=3Oxz64ZCLeWiXTlrrLkZtw&expires=1606620848
+https://espare.tk/live/animal_planet_lat.m3u8?token=W1CMuf6kzj-YUfmjEOn-Pw&expires=1606701483
 
 #EXTINF: -1 tvg-shift = 10 tvg-name = "HBO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO
-https://espare.tk/live/hbo_lat.m3u8?token=GevUlJabLTTWZFHALd02WQ&expires=1606620227
+https://espare.tk/live/hbo_lat.m3u8?token=NyBcbT1EX3uQrdAPCkHfxQ&expires=1606701611
 
 #EXTINF: -1 tvg-shift = 11 tvg-name = "HBO Family" tvg-logo = "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png", HBO Family
-https://espare.tk/live/hbo_family_lat.m3u8?token=bB1vRdkqLZpm0GGWIPRh2g&expires=1606633389
+https://espare.tk/live/hbo_family_lat.m3u8?token=e44hPGhS153Ou23jmeJpYA&expires=1606701633
 
 #EXTINF: -1 tvg-shift = 12 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
-https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=li1lQI1FG5s1k_6Z-b8EiQ&expires=1606632701
+https://espare.tk/live/fox_lat.m3u8?token=XkMGm_G9zanVkljRtXMLCw&expires=1606701650
 
 #EXTINF: -1 tvg-shift = 13 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF: -1 tvg-shift = 14 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-https://espare.tk/live/historia_lat.m3u8?token=GIif6R2n_CUEJKMaf39RYA&expires=1606632875
+https://espare.tk/live/historia_lat.m3u8?token=rGjSb-v5Bwd-ZuvNiPyJFw&expires=1606701488
 
-#EXTINF: -1 tvg-shift = 15 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
-https://espare.tk/live/espn_plus_lat.m3u8?token=krMNgq_PZwlbercF-siEwQ&expires=1606621099
+#EXTINF: -1 tvg-shift = 15 tvg-name = "History España" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History España
+https://espare.tk/live/historia.m3u8?token=h-Tjj0b7J7ACFeq6wIvQcQ&expires=1606701341
 
-#EXTINF: -1 tvg-shift = 16 tvg-name = "Paramount" tvg-logo = "https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg", Paramount
-https://espare.tk/live/paramount_lat.m3u8?token=NzZ2wfGZpUUcjAsCzQ18kQ&expires=1606633616
+#EXTINF: -1 tvg-shift = 17 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
+https://espare.tk/live/espn_arg.m3u8?token=VqnfeaE0syBKitx-7_z4Cw&expires=1606701706
 
-#EXTINF: -1 tvg-shift = 17 tvg-name = "Fox Sports" tvg-logo = "https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title = "Deporte", Fox Sports
-https://espare.tk/live/fox_sports_arg.m3u8?token=ZytYFrFINVov64mIO5KcoQ&expires=1606633751
+#EXTINF: -1 tvg-shift = 18 tvg-name = "Paramount" tvg-logo = "https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg", Paramount
+https://espare.tk/live/paramount_lat.m3u8?token=POk_EGo6-Y8KU_XLkpWHQg&expires=1606701733
 
-#EXTINF: -1 tvg-shift = 18 tvg-name = "iCarly. Episodio 06. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 06. Temporada 2
+#EXTINF: -1 tvg-shift = 19 tvg-name = "Fox Sports" tvg-logo = "https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title = "Deporte", Fox Sports
+https://espare.tk/live/fox_sports_arg.m3u8?token=kcv_BAlWLbAVs5T3tj5clA&expires=1606701763
+
+#EXTINF: -1 tvg-shift = 20 tvg-name = "Warner Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner Channel
+https://espare.tk/live/warner_lat.m3u8?token=9O0T2qdLIKEWfgc4cQt7gw&expires=1606701783
+
+#EXTINF: -1 tvg-shift = 21 tvg-name = "Fox Movies" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", Fox Movies
+https://espare.tk/live/fox_movies_lat.m3u8?token=PcNSPy-UyG5FKuNpyDD4oQ&expires=1606701886
+
+#EXTINF: -1 tvg-shift = 22 tvg-name = "Sony Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
+https://espare.tk/live/sony_lat.m3u8?token=70SkQLNtsuKLaGfHep-6rA&expires=1606701963
+
+#EXTINF: -1 tvg-shift = 23 tvg-name = "Discovery Channel" tvg-logo = "https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png", Discovery Channel
+https://espare.tk/live/discovery_channel.m3u8?token=s4vMWenb5arilZgUQhZ8JQ&expires=1606702060
+
+#EXTINF: -1 tvg-shift = 23 tvg-name = "National Geographic" tvg-logo = "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000", National Geographic
+https://espare.tk/live/nat_geographic_lat.m3u8?token=sykLUMrER7eKQb-GnAf1rg&expires=1606702223
+
+#EXTINF: -1 tvg-shift = 24 tvg-name = "iCarly. Episodio 06. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 06. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_143338107496041_2597223351248755597_n.mp4?_nc_cat=100&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeFrEV0ohLZArWUHte0-IJNhxTOA-LWcu7_FM4D4tZy7v3MmFcxsXFHOgrLg6c0LsMdEQVsOGg2LTw1xR0LEg9FG&_nc_ohc=NEUcceusFYAAX8GU4Vp&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=b21e613f11c5107bd59b4cde64295951&oe=5FEADFD7
 
-#EXTINF: -1 tvg-shift = 19 tvg-name = "iCarly. Episodio 01. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
+#EXTINF: -1 tvg-shift = 25 tvg-name = "iCarly. Episodio 01. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_3466895693399957_8454631915748603526_n.mp4?_nc_cat=104&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGK6V1zjL3wQJqzg6xRxkPbvMBnCGzeipe8wGcIbN6Kl6ppF5KfuTCdmqFp8YlpuweMfG6wlYO0G9v9571Kk2T4&_nc_ohc=H2st8q7AfHUAX-WDkSC&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=3eed78fadd6f827864ca6458b8c10dac&oe=5FEA84AA
 
-#EXTINF: -1 tvg-shift = 20 tvg-name = "iCarly. Episodio 11. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 11. Temporada 2
+#EXTINF: -1 tvg-shift = 26 tvg-name = "iCarly. Episodio 11. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 11. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_708542843378581_7707889282742735510_n.mp4?_nc_cat=111&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeEMkU3aD3sLsw9RtlJx0SnPBfHELwqfdEgF8cQvCp90SJOWmccvf49cANo4L44QyNucoxW_NfwLE6EZpY-Xu8j3&_nc_ohc=vPzzyPgqAUUAX-FgTKV&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=4c9aec447df0c7a8f7aa382369bd6b34&oe=5FE72B50
 
-#EXTINF: -1 tvg-shift = 21 tvg-name = "iCarly. Episodio 13. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 13. Temporada 2
+#EXTINF: -1 tvg-shift = 27 tvg-name = "iCarly. Episodio 13. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 13. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_2788970984701063_9102884674521753465_n.mp4?_nc_cat=106&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeGiYvlU0oyb1HjNdg5G1jAioD3vCi3d_aGgPe8KLd39ofJSLh7oEp33Cs7yOXZCvIpTSpT0FY7XHZlbtpFzKUy2&_nc_ohc=7GM8yMBaug0AX9TgXUp&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=4da07c5ad569adf61985a8a840e4eaed&oe=5FEAD75C
