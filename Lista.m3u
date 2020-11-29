@@ -30,14 +30,23 @@ https://espare.tk/live/animal_planet_lat.m3u8?token=3Oxz64ZCLeWiXTlrrLkZtw&expir
 #EXTINF: -1 tvg-shift = 10 tvg-name = "HBO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO
 https://espare.tk/live/hbo_lat.m3u8?token=GevUlJabLTTWZFHALd02WQ&expires=1606620227
 
-#EXTINF: -1 tvg-shift = 11 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
+#EXTINF: -1 tvg-shift = 11 tvg-name = "HBO Family" tvg-logo = "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png", HBO Family
+https://espare.tk/live/hbo_family_lat.m3u8?token=bB1vRdkqLZpm0GGWIPRh2g&expires=1606633389
+
+#EXTINF: -1 tvg-shift = 12 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
 https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=li1lQI1FG5s1k_6Z-b8EiQ&expires=1606632701
 
-#EXTINF: -1 tvg-shift = 12 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
+#EXTINF: -1 tvg-shift = 13 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF: -1 tvg-shift = 13 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
+#EXTINF: -1 tvg-shift = 14 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
 https://espare.tk/live/historia_lat.m3u8?token=GIif6R2n_CUEJKMaf39RYA&expires=1606632875
 
-#EXTINF: -1 tvg-shift = 14 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
+#EXTINF: -1 tvg-shift = 15 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
 https://espare.tk/live/espn_plus_lat.m3u8?token=krMNgq_PZwlbercF-siEwQ&expires=1606621099
+
+#EXTINF: -1 tvg-shift = 16 tvg-name = "Paramount" tvg-logo = "https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg", Paramount
+https://espare.tk/live/paramount_lat.m3u8?token=NzZ2wfGZpUUcjAsCzQ18kQ&expires=1606633616
+
+#EXTINF: -1 tvg-shift = 17 tvg-name = "Fox Sports" tvg-logo = "" group-title = "Deporte", Fox Sportshttps://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png
+https://espare.tk/live/fox_sports_arg.m3u8?token=ZytYFrFINVov64mIO5KcoQ&expires=1606633751
