@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://espare.tk/live/nick_lat.m3u8?token=Lg08NnCr90i9yVXSEbs3tg&expires=1606620044
+https://live.televisiongratishd.com/tvplus2021/110_.m3u8?token=X98wooImOX-iei-obhesjA&expires=1606631785
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
@@ -10,19 +10,19 @@ https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkM
 https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600
 
 #EXTINF: -1 tvg-shift = 4 tvg-name = "Discovery Kids" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
-https://espare.tk/live/discovery_kids_lat.m3u8?token=cO8VhOzEv-t_qzz4EQuK7g&expires=1606567948
+https://espare.tk/live/discovery_kids_lat.m3u8?token=U2vbontDoSalE-qcCrpbjA&expires=1606629200
 
-#EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
+#EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel-No disponible
 https://espare.tk/live/disney_channel_lat.m3u8?token=9os9vtyRuRfsxcO4ZD7IxA&expires=1606568058
 
-#EXTINF: -1 tvg-shift = 6 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD
+#EXTINF: -1 tvg-shift = 6 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD-No disponible
 https://espare.tk/live/disney_xd_lat.m3u8?token=QRgGr4TDrzAITf3DQKX3kg&expires=1606568468
 
-#EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks
+#EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks - No disponible
 https://espare.tk/live/cartoon_network_lat.m3u8?token=Qks6nu7pEsqp_elwhY2QIw&expires=1606568649
 
 #EXTINF: -1 tvg-shift = 8 tvg-name = "Discovery Home and Health" tvg-logo = "https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png", Discovery Home and Health
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=etCcPomcFTV-aUdtMxStOg&expires=1606568744
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=PQWL0mp69pPRg1rAUIIigA&expires=1606632590
 
 #EXTINF: -1 tvg-shift = 9 tvg-name = "Animal Planet" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png", Animal Planet
 https://espare.tk/live/animal_planet_lat.m3u8?token=3Oxz64ZCLeWiXTlrrLkZtw&expires=1606620848
@@ -31,13 +31,13 @@ https://espare.tk/live/animal_planet_lat.m3u8?token=3Oxz64ZCLeWiXTlrrLkZtw&expir
 https://espare.tk/live/hbo_lat.m3u8?token=GevUlJabLTTWZFHALd02WQ&expires=1606620227
 
 #EXTINF: -1 tvg-shift = 11 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
-https://espare.tk/live/fox_lat.m3u8?token=C7qMeSh1w1VJVhoeNez26g&expires=1606569133
+https://live.televisiongratishd.com/tvplus2021/42_.m3u8?token=li1lQI1FG5s1k_6Z-b8EiQ&expires=1606632701
 
 #EXTINF: -1 tvg-shift = 12 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
-https://r7---sn-0opoxu-ihvd.googlevideo.com/videoplayback?expire=1606570188&ei=bPzBX_OKJKWP2_gP7M6w-A0&ip=200.68.135.50&id=21X5lGlDOfg.3&itag=298&aitags=133%2C134%2C135%2C136%2C160%2C298&source=yt_live_broadcast&requiressl=yes&mh=N8&mm=44%2C29&mn=sn-0opoxu-ihvd%2Csn-a5meknel&ms=lva%2Crdu&mv=m&mvi=7&pl=24&usequic=no&initcwndbps=171250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=gKa0K9S0qOyAMNi12fGWu0YF&gir=yes&mt=1606548263&fvip=5&keepalive=yes&beids=9466588&c=WEB_EMBEDDED_PLAYER&n=YnNlrSt2aMsMUmVbWHD&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMKGa_M7ysl4V2Sv5q7TUDwnh6RfUsTSXpohjli-DAqTAiEAoMdfuvzLyQCg_83xmMLQKPlbGUhQ8fw6qWGC_H2O_1k%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cusequic%2Cinitcwndbps&lsig=AG3C_xAwRQIgWO1-lhvPMhgWDkvLmrkwiw3sk9MuowohcLJuIWkZ5qUCIQD8MPlcAECO9GzdpauUbiWEGvJimaRI6T43JZVP_tQzfg%3D%3D
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF: -1 tvg-shift = 13 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-https://r7---sn-0opoxu-ihvd.googlevideo.com/videoplayback?expire=1606570188&ei=bPzBX_OKJKWP2_gP7M6w-A0&ip=200.68.135.50&id=21X5lGlDOfg.3&itag=298&aitags=133%2C134%2C135%2C136%2C160%2C298&source=yt_live_broadcast&requiressl=yes&mh=N8&mm=44%2C29&mn=sn-0opoxu-ihvd%2Csn-a5meknel&ms=lva%2Crdu&mv=m&mvi=7&pl=24&usequic=no&initcwndbps=171250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=gKa0K9S0qOyAMNi12fGWu0YF&gir=yes&mt=1606548263&fvip=5&keepalive=yes&beids=9466588&c=WEB_EMBEDDED_PLAYER&n=YnNlrSt2aMsMUmVbWHD&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAMKGa_M7ysl4V2Sv5q7TUDwnh6RfUsTSXpohjli-DAqTAiEAoMdfuvzLyQCg_83xmMLQKPlbGUhQ8fw6qWGC_H2O_1k%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cusequic%2Cinitcwndbps&lsig=AG3C_xAwRQIgWO1-lhvPMhgWDkvLmrkwiw3sk9MuowohcLJuIWkZ5qUCIQD8MPlcAECO9GzdpauUbiWEGvJimaRI6T43JZVP_tQzfg%3D%3D
+https://espare.tk/live/historia_lat.m3u8?token=GIif6R2n_CUEJKMaf39RYA&expires=1606632875
 
 #EXTINF: -1 tvg-shift = 14 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
 https://espare.tk/live/espn_plus_lat.m3u8?token=krMNgq_PZwlbercF-siEwQ&expires=1606621099
