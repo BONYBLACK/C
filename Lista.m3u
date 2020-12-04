@@ -72,5 +72,14 @@ https://espare.tk/live/1067.m3u8?token=utLtoOK1_knc7g_1L9OsEA&expires=1607083410
 #EXTINF: -1 tvg-shift = 23 tvg-name = "National Geographic" tvg-logo = "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000", National Geographic
 https://espare.tk/live/nat_geographic_lat.m3u8?token=bAOuYSpk-wZvPbwHf3liLw&expires=1607083447
 
-#EXTINF: 0 tvg-shift = 25 tvg-name = "iCarly. Episodio 061 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
+#EXTINF: 0 tvg-shift = 24 tvg-name = "iCarly. Episodio 01 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
 https://s09.upstream.to/hls/o2up3o2craysmvk4xsasu5n6krawtsn4w6aalqrga5xsg3avnp56uetgdana/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 25 tvg-name = "iCarly. Episodio 02 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 02. Temporada 2
+https://s26.upstream.to/hls/o2up25fqreysmvk4xsbsu2nbb4er73234t5hxlll4njgp5uw6f2nkpiancuq/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 26 tvg-name = "iCarly. Episodio 03 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 03. Temporada 2
+https://s53.upstream.to/hls/o2up3t5treysmvk4xsbsupxolg5loip2jm4bhix7tzntfrptey2lb4p6v7rq/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 26 tvg-name = "iCarly. Episodio 04 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 03. Temporada 4
+https://www1106.o0-3.com/token=KFnRW6Q8RNyo8O86VBhtDQ/1607080132/200.68.0.0/92/c/21/af26576acbeda2d4c12c9b5532a9621c-360p.mp4
