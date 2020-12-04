@@ -1,79 +1,76 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://espare.tk/live/nick_lat.m3u8?token=4vAIqIEkheD4kSsc3TZx2Q&expires=1606725448
+https://espare.tk/live/nick_lat.m3u8?token=_oq7qHNjjIqLauGaeryhlw&expires=1607082179
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
 
 #EXTINF: -1 tvg-shift = 3 tvg-name = "NickToons" tvg-logo = "https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600", NickToons
-https://espare.tk/live/nicktoons_lat.m3u8?token=NJna_sg0EiDPrNlaNA6LSQ&expires=1606724350
+https://espare.tk/live/nicktoons_lat.m3u8?token=-EGN2OxHTmrFMs4F9maYfQ&expires=1607082213
 
 #EXTINF: -1 tvg-shift = 4 tvg-name = "Discovery Kids" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
-https://espare.tk/live/discovery_kids_lat.m3u8?token=cd0fobv_lAyqTL49if9FaA&expires=1606724382
+https://espare.tk/live/discovery_kids_lat.m3u8?token=E_5D0bFiiHnh4HqZ-HVyoQ&expires=1607082259
 
 #EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
-https://espare.tk/live/disney_channel_lat.m3u8?token=2WU979z-LjBcFjWl4Citqg&expires=1606724432
+https://espare.tk/live/disney_channel_lat.m3u8?token=GTmhQaWK3COSqRUocOiMWg&expires=1607082293
 
 #EXTINF: -1 tvg-shift = 6 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD-No disponible
-https://espare.tk/live/disney_xd_lat.m3u8?token=UG7eQAgU-FwUSAGlR_5ZKw&expires=1606724406
+https://espare.tk/live/disney_xd_lat.m3u8?token=t4hFWqeqAQsN3HB0wuLhBg&expires=1607082325
 
 #EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks
-https://espare.tk/live/cartoon_network_lat.m3u8?token=hzyMSzX_PAWP7XUFMcBqfQ&expires=1606724465
+https://espare.tk/live/cartoon_network_lat.m3u8?token=nMZ1zSW2wVIhc8_wD9mtpg&expires=1607082357
 
 #EXTINF: -1 tvg-shift = 8 tvg-name = "Discovery Home and Health" tvg-logo = "https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png", Discovery Home and Health
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=HxBxFoUyEEquk3IjBBQLOQ&expires=1606701316
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=Y1qJ1yrOcfVg41MoXtiW7A&expires=1607082458
 
 #EXTINF: -1 tvg-shift = 9 tvg-name = "Animal Planet" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png", Animal Planet
-https://espare.tk/live/animal_planet_lat.m3u8?token=DW4HSMsVSPR31dTD-EWWow&expires=1606724510
+https://espare.tk/live/animal_planet_lat.m3u8?token=bOUEE4wbuWpIps-hiKLEBA&expires=1607082534
 
 #EXTINF: -1 tvg-shift = 10 tvg-name = "HBO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO
-https://espare.tk/live/hbo_lat.m3u8?token=GFqbKHR5pPUtGesVpjkEPw&expires=1606724617
+https://espare.tk/live/1019.m3u8?token=OZ8N0KBm0zVe7GQjufreTg&expires=1607082646
 
 #EXTINF: -1 tvg-shift = 11 tvg-name = "HBO Family" tvg-logo = "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png", HBO Family
-https://espare.tk/live/hbo_family_lat.m3u8?token=XekvKY7-o-cTXrnH1XkXVQ&expires=1606725148
+https://espare.tk/live/1022.m3u8?token=i37BEg7GZF6jD_DUVczJpw&expires=1607082693
 
 #EXTINF: -1 tvg-shift = 12 tvg-name = "HBO Plus" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO Plus
-https://espare.tk/live/hbo_plus_lat.m3u8?token=hFgGg7vPNZQBLaj93nB9ew&expires=1606724729
+https://espare.tk/live/1021.m3u8?token=SSAlyFf9ifEan68iuoBddQ&expires=1607082777
 
 #EXTINF: -1 tvg-shift = 13 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
-https://espare.tk/live/fox_lat.m3u8?token=COqTgQD5iEXiwR0_1QWyJQ&expires=1606724783
+https://espare.tk/live/1024.m3u8?token=KFxyb52RjDnO3sHd8P844g&expires=1607082813
 
 #EXTINF: -1 tvg-shift = 14 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF: -1 tvg-shift = 15 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-https://espare.tk/live/historia_lat.m3u8?token=vyfsKTO1vk8VIrHlLkEOOA&expires=1606724846
+https://espare.tk/live/historia_lat.m3u8?token=XVBK96ZvgZ7kFe_-usr__A&expires=1607082892
 
 #EXTINF: -1 tvg-shift = 16 tvg-name = "History España" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History España
-https://espare.tk/live/historia.m3u8?token=n5lKbxn8v6HMhYUm_9dZBg&expires=1606724819
+https://espare.tk/live/historiaes.m3u8?token=o8Xtz5fi9z42ZjGzf7jREQ&expires=1607082857
 
 #EXTINF: -1 tvg-shift = 17 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
-https://espare.tk/live/espn_arg.m3u8?token=96BsgwzBrJVX_XdGE9dRFw&expires=1606724895
+https://espare.tk/live/1063.m3u8?token=R9tz_Vhnsm23KVDeabUWGw&expires=1607082925
 
 #EXTINF: -1 tvg-shift = 18 tvg-name = "Paramount" tvg-logo = "https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg", Paramount
-https://espare.tk/live/paramount_lat.m3u8?token=qdKgyDF-72AsP-YRqv_eXg&expires=1606725105
+https://espare.tk/live/1051.m3u8?token=-t6ejJ37xd5rWLMzol4tEA&expires=1607083003
 
-#EXTINF: -1 tvg-shift = 19 tvg-name = "Fox Sports" tvg-logo = "https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title = "Deporte", Fox Sports
-https://espare.tk/live/fox_sports_premium_lat.m3u8?token=csRWcIGRLl44uLcM4AtfFQ&expires=1606725018
+#EXTINF: -1 tvg-shift = 19 tvg-name = "Fox Sports Premium" tvg-logo = "https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title = "Deporte", Fox Sports Preemium
+https://espare.tk/live/1062.m3u8?token=CXNEU803Wi0sfiEpfVz0UA&expires=1607083040
 
 #EXTINF: -1 tvg-shift = 20 tvg-name = "Warner Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner Channel
-https://espare.tk/live/warner_lat.m3u8?token=0ooVUybXWMWOIwye-7gQyA&expires=1606725070
+https://espare.tk/live/1049.m3u8?token=3Cnm6IKzX7jast14pb8ctQ&expires=1607083135
 
 #EXTINF: -1 tvg-shift = 21 tvg-name = "Fox Movies" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", Fox Movies
-https://espare.tk/live/fox_movies_lat.m3u8?token=VDme9jnUETd3_1O2EoLM_A&expires=1606725191
+https://espare.tk/live/1027.m3u8?token=Qyz_qoaPl06oMK06ZEA6qA&expires=1607083206
 
 #EXTINF: -1 tvg-shift = 22 tvg-name = "Sony Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
-https://espare.tk/live/sony_lat.m3u8?token=70SkQLNtsuKLaGfHep-6rA&expires=1606701963
+https://espare.tk/live/1050.m3u8?token=P49MH_UUTIfm86WNbYGj6g&expires=1607083346
 
 #EXTINF: -1 tvg-shift = 23 tvg-name = "Discovery Channel" tvg-logo = "https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png", Discovery Channel
-https://espare.tk/live/discovery_channel.m3u8?token=s4vMWenb5arilZgUQhZ8JQ&expires=1606702060
+https://espare.tk/live/1067.m3u8?token=utLtoOK1_knc7g_1L9OsEA&expires=1607083410
 
 #EXTINF: -1 tvg-shift = 23 tvg-name = "National Geographic" tvg-logo = "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000", National Geographic
-https://espare.tk/live/nat_geographic_lat.m3u8?token=1cDWgJX7Psj5yLytYQsgmQ&expires=1606725263
-
-#EXTINF: -1 tvg-shift = 24 tvg-name = "Los Simpson 24 horas" tvg-logo = "https://unnimedios.com.mx/wp-content/uploads/2020/10/FOTO-NOTA-REFLECTOR-1-SIMPSONS-22102020.jpg", Los Simpson 24 horas
-https://r6---sn-0opoxu-ihvz.googlevideo.com/videoplayback?expire=1606725249&ei=IVrEX4PRMLPI1AGP9L-YCg&ip=200.68.151.126&id=iHa3c2chQzc.1&itag=136&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&mh=yd&mm=44%2C29&mn=sn-0opoxu-ihvz%2Csn-a5meknek&ms=lva%2Crdu&mv=m&mvi=6&pl=24&usequic=no&initcwndbps=138750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=g9wYhKiGYR8PFJ6W58SEdcsF&gir=yes&mt=1606703302&fvip=6&keepalive=yes&beids=9466586&c=WEB_EMBEDDED_PLAYER&n=X39aL6UK9FEnVdJGRz8&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgUfPnNd0dBecok5-dN2M_5M4mMGGkMKAJigPKYsL4t9ECIQCseqTt-BLS0a57VZQPY9cJmxRwxWtn1KSM9UpvdCVs-A%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cusequic%2Cinitcwndbps&lsig=AG3C_xAwRgIhAPebiDs7rVlzPDH3VVXo1IfGQd75kzy78jVVoK-zSVLbAiEA-4LwpgOPkLlFJDeumM7pvR6_LH7BaMffhrqHoOzxnbo%3D
+https://espare.tk/live/nat_geographic_lat.m3u8?token=bAOuYSpk-wZvPbwHf3liLw&expires=1607083447
 
 #EXTINF: -1 tvg-shift = 25 tvg-name = "iCarly. Episodio 06. Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 06. Temporada 2
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_143338107496041_2597223351248755597_n.mp4?_nc_cat=100&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeFrEV0ohLZArWUHte0-IJNhxTOA-LWcu7_FM4D4tZy7v3MmFcxsXFHOgrLg6c0LsMdEQVsOGg2LTw1xR0LEg9FG&_nc_ohc=NEUcceusFYAAX8GU4Vp&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=b21e613f11c5107bd59b4cde64295951&oe=5FEADFD7
