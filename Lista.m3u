@@ -73,7 +73,16 @@ https://espare.tk/live/1067.m3u8?token=utLtoOK1_knc7g_1L9OsEA&expires=1607083410
 https://espare.tk/live/nat_geographic_lat.m3u8?token=bAOuYSpk-wZvPbwHf3liLw&expires=1607083447
 
 #EXTINF: 0 tvg-shift = 25 tvg-name = "iCarly. Episodio 01 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
-https://s09.upstream.to/hls/o2up3o2craysmvk4xsasu5n6krawtsn4w6aalqrga5xsg3avnp56uetgdana/index-v1-a1.m3u8
+https://s09.upstream.to/hls/o2up3o2craysmvk4xsasu5n6krawtsn4w6aalqrga5xsgh6eykzt2odycsya/index-v1-a1.m3u8
 
-#EXTINF: 0 tvg-shift = 26 tvg-name = "iCarly. Episodio 10 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 10. Temporada 2
-https://s08.upstream.to/hls/o2up2nccraysmvk4xsasuzf5lgofqgrfxvwwkxjq2xz4mbaljnnwrwddkybq/index-v1-a1.m3u8
+#EXTINF: 0 tvg-shift = 26 tvg-name = "iCarly. Episodio 02 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 02. Temporada 2
+https://s26.upstream.to/hls/o2up25fqreysmvk4xsbsu2nbb4er73234t5hxlll4njgpbkhla6ksuhimfla/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 27 tvg-name = "iCarly. Episodio 03 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 03. Temporada 2
+https://s53.upstream.to/hls/o2up3t5treysmvk4xsbsupxolg5loip2jm4bhix7tzntfnrcr56nbfdrda2a/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 28 tvg-name = "iCarly. Episodio 12 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 12. Temporada 2
+https://s06.upstream.to/hls/o2up3ikvraysmvk4xsbcu3vsbpoxoeaharyjus7hqen24pf7y5qdgc6h3ata/index-v1-a1.m3u8
+
+#EXTINF: 0 tvg-shift = 29 tvg-name = "iCarly. Episodio 13 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 13. Temporada 2
+https://s06.upstream.to/hls/o2up3gvoreysmvk4xsbcuyf5ldjvk5m6h5tiybnlmut5m5ai5nkdnrmriy5a/index-v1-a1.m3u8
