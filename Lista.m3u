@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://espare.tk/live/nick_lat.m3u8?token=GgjLWqJNKSTO3rsUPotQ1g&expires=1607236516
+https://espare.tk/live/nick_lat.m3u8?token=w-tLUDiTkh6s9_9aOXASFw&expires=1607267281
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
