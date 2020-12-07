@@ -86,3 +86,6 @@ https://s06.upstream.to/hls/o2up3ikvraysmvk4xsbcu3vsbpoxoeaharyjus7hqen24pf7y5qd
 
 #EXTINF: 0 tvg-shift = 29 tvg-name = "iCarly. Episodio 13 Temporada 3" group-title = "iCarly. Temporada 3", iCarly. Episodio 13. Temporada 3
 https://s26.upstream.to/hls/o2up2e2sraysmvk4xsbcu7nwbzpfvtfgltslckjjjdllpmysofm2t56ibmda/index-v1-a1.m3u8
+
+#EXTINF: -1 tvg-shift = 30 tvg-name = "Nick Clásico" tvg-logo = "https://i.vimeocdn.com/video/925290501_1280x720.jpg", Nick Clásico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=44b4cb2e-1151-43e8-aaf0-632f706071c8&deviceVersion=86.0.4240.198&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Chrome&sid=ea623781-3836-11eb-813b-0242ac110002&advertisingId=&deviceLat=24.5668&deviceLon=-107.3843&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
