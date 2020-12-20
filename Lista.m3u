@@ -1,76 +1,73 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://espare.tk/live/nick_lat.m3u8?token=w-tLUDiTkh6s9_9aOXASFw&expires=1607267281
+https://espare.tk/live/nick_lat.m3u8?token=ESrZDaqHY1nF0s9pQBCGqA&expires=1608445660
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
 
 #EXTINF: -1 tvg-shift = 3 tvg-name = "NickToons" tvg-logo = "https://espare.tk/live/nicktoons_lat.m3u8?token=TjVaUpu38tuAZrEe7SH5WQ&expires=1606620600", NickToons
-https://espare.tk/live/nicktoons_lat.m3u8?token=yDKZ3KI349zBbOuQ6Fqq-A&expires=1607236535
+https://espare.tk/live/nicktoons_lat.m3u8?token=toWDlfG5Y_1Qwa6P6pj_GA&expires=1608445718
 
 #EXTINF: -1 tvg-shift = 4 tvg-name = "Discovery Kids" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
-https://espare.tk/live/discovery_kids_lat.m3u8?token=fSOWiSkDzbMz_t3SF_PuTQ&expires=1607236603
+https://espare.tk/live/discovery_kids_lat.m3u8?token=LK1nN6eNTYKJulPRDpjGlw&expires=1608445728
 
 #EXTINF: -1 tvg-shift = 5 tvg-name = "Disney Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png", Disney Channel
 https://espare.tk/live/disney_channel_lat.m3u8?token=dPwK5BfqK_f9CZTkxeC1qg&expires=1607236662
 
 #EXTINF: -1 tvg-shift = 6 tvg-name = "Disney XD" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png", Disney XD-No disponible
-https://espare.tk/live/disney_xd_lat.m3u8?token=sSvPuiStD7Trc9cTSHT8vw&expires=1607236707
+https://espare.tk/live/disney_xd_lat.m3u8?token=906qTr9qw1TZJ-uuT-T3oA&expires=1608445731
 
 #EXTINF: -1 tvg-shift = 7 tvg-name = "Cartoon Networks" tvg-logo = "https://vignette.wikia.nocookie.net/manzanaycebollin/images/6/68/CN.png/revision/latest?cb=20190828004935&path-prefix=es", Cartoon Networks
-https://espare.tk/live/cartoon_network_lat.m3u8?token=rzDXr2JD092sFiKDmGTg9w&expires=1607236735
+https://espare.tk/live/cartoon_network_lat.m3u8?token=rwJHWD2iw98rS0EbRxa2Xg&expires=1608445750
 
 #EXTINF: -1 tvg-shift = 8 tvg-name = "Discovery Home and Health" tvg-logo = "https://3.bp.blogspot.com/-Q4OgvndALm8/WqnaywA7f7I/AAAAAAAAEck/KVomu2aru5o9BbovpqTRoIWFxokuJ-JbACLcBGAs/s1600/_0040_discovery_hh.png", Discovery Home and Health
-https://espare.tk/live/discovery_hyh_lat.m3u8?token=F1on1uWeOxuDg0ll7qm8ZA&expires=1607236776
+https://espare.tk/live/discovery_hyh_lat.m3u8?token=M5Rg7p9jVui0uk-fl9GmKg&expires=1608445757
 
 #EXTINF: -1 tvg-shift = 9 tvg-name = "Animal Planet" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png", Animal Planet
-https://espare.tk/live/animal_planet_lat.m3u8?token=jFg6siCZxp48Y5KA8koCjw&expires=1607236807
+https://espare.tk/live/animal_planet_lat.m3u8?token=L7OAQzDUoHlG4Q8YWljqWA&expires=1608445899
 
 #EXTINF: -1 tvg-shift = 10 tvg-name = "HBO" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png", HBO
-https://espare.tk/live/1019.m3u8?token=fO_XMdrR-leDx2w4YKrZZw&expires=1607236855
+https://espare.tk/live/1019.m3u8?token=4F2td7mx9QeqOgB0ZhbLfQ&expires=1608445914
 
 #EXTINF: -1 tvg-shift = 11 tvg-name = "HBO Family" tvg-logo = "https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097892735-HBO-Family-pequenio.png", HBO Family
-https://espare.tk/live/1022.m3u8?token=bMzPeo2qZIyfXCycygQozw&expires=1607236871
+https://espare.tk/live/1022.m3u8?token=TPpJ2Mpu26nTq4r7c2ewMg&expires=1608445916
 
 #EXTINF: -1 tvg-shift = 12 tvg-name = "HBO Plus" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO Plus
-https://espare.tk/live/1021.m3u8?token=Y0k6CjHZ1tECLwCyTztrCQ&expires=1607236907
+https://espare.tk/live/1021.m3u8?token=tg15gm0E59kIToIGnh2EcA&expires=1608445919
 
 #EXTINF: -1 tvg-shift = 13 tvg-name = "FOX" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg", FOX
-https://espare.tk/live/1024.m3u8?token=cJNmsBLzw_tphi3EZg8z2g&expires=1607236935
+https://espare.tk/live/1024.m3u8?token=0bmwd8UnngiwzK1_s0-y-g&expires=1608446030
 
 #EXTINF: -1 tvg-shift = 14 tvg-name = "Nasa" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1200px-NASA_logo.svg.png", Nasa
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF: -1 tvg-shift = 15 tvg-name = "History" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History
-https://espare.tk/live/historia_lat.m3u8?token=3_ahyL6jsWrZqqolAFg1Iw&expires=1607236970
-
-#EXTINF: -1 tvg-shift = 16 tvg-name = "History España" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg", History España
-https://espare.tk/live/historiaes.m3u8?token=Ya9IliehgFXsVHiKyV6WoQ&expires=1607237107
+https://espare.tk/live/historia_lat.m3u8?token=48hlltqRR8vgd6te35NQMg&expires=1608446070
 
 #EXTINF: -1 tvg-shift = 17 tvg-name = "ESPN" tvg-logo = "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title = "Deporte", ESPN
-https://espare.tk/live/1063.m3u8?token=NXyQQHrRf39wYjJHFyniFQ&expires=1607237148
+https://espare.tk/live/1063.m3u8?token=QCsZgpWYdBs3tVJNRaImKg&expires=1608446104
 
 #EXTINF: -1 tvg-shift = 18 tvg-name = "Paramount" tvg-logo = "https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg", Paramount
-https://espare.tk/live/1051.m3u8?token=8P2B8IUJMVj1if8LyOjNiQ&expires=1607237174
+https://espare.tk/live/1051.m3u8?token=G9MvT1BPCHsh6RZwxd8szg&expires=1608446163
 
 #EXTINF: -1 tvg-shift = 19 tvg-name = "Fox Sports Premium" tvg-logo = "https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title = "Deporte", Fox Sports Preemium
-https://espare.tk/live/1062.m3u8?token=rdM-mNtKKzzjg4xnWB0epQ&expires=1607237201
+https://espare.tk/live/1062.m3u8?token=W8A_l-Fht1QKtZAmWOXgzA&expires=1608446260
 
 #EXTINF: -1 tvg-shift = 20 tvg-name = "Warner Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", Warner Channel
-https://espare.tk/live/1049.m3u8?token=aXD1bdREdoSxJjwCNvRf4g&expires=1607237247
+https://espare.tk/live/1049.m3u8?token=LHk7EYKUnn2P1eEcwGZZIA&expires=1608446217
 
 #EXTINF: -1 tvg-shift = 21 tvg-name = "Fox Movies" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png", Fox Movies
-https://espare.tk/live/1027.m3u8?token=ydWTulMAHq_fXlRAI1qTsw&expires=1607237277
+https://espare.tk/live/1027.m3u8?token=nB2zRI2BdHgFGS7fKn0wGQ&expires=1608446302
 
 #EXTINF: -1 tvg-shift = 22 tvg-name = "Sony Channel" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony Channel
-https://espare.tk/live/1050.m3u8?token=rNNycZB5tmet4a02idcm7Q&expires=1607237315
+https://espare.tk/live/1050.m3u8?token=_3QJyhbPgDs5w4KIsEZgTA&expires=1608446170
 
 #EXTINF: -1 tvg-shift = 23 tvg-name = "Discovery Channel" tvg-logo = "https://forounivers.com/uploads/monthly_2019_09/large.1730728350_DiscoveryChannel2019.png.c77099cce383a7e1271ae11b2e906ad5.png", Discovery Channel
-https://espare.tk/live/1067.m3u8?token=_pUemskx_J6bieBaG0yHjQ&expires=1607237353
+https://espare.tk/live/1067.m3u8?token=YlUsXqtcmckyEiUbspqx-w&expires=1608446331
 
 #EXTINF: -1 tvg-shift = 24 tvg-name = "National Geographic" tvg-logo = "https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000", National Geographic
-https://espare.tk/live/nat_geographic_lat.m3u8?token=nQjEfXEqbs-iJj5bOQoxww&expires=1607237380
+https://espare.tk/live/nat_geographic_lat.m3u8?token=Hdp8sAzTGYzyobaaEuXUGQ&expires=1608446363
 
 #EXTINF: 0 tvg-shift = 25 tvg-name = "iCarly. Episodio 01 Temporada 2" group-title = "iCarly. Temporada 2", iCarly. Episodio 01. Temporada 2
 https://s09.upstream.to/hls/o2up3o2craysmvk4xsasu5n6krawtsn4w6aalqrga5xsgh6eykzt2odycsya/index-v1-a1.m3u8
@@ -87,5 +84,3 @@ https://s06.upstream.to/hls/o2up3ikvraysmvk4xsbcu3vsbpoxoeaharyjus7hqen24pf7y5qd
 #EXTINF: 0 tvg-shift = 29 tvg-name = "iCarly. Episodio 13 Temporada 3" group-title = "iCarly. Temporada 3", iCarly. Episodio 13. Temporada 3
 https://s26.upstream.to/hls/o2up2e2sraysmvk4xsbcu7nwbzpfvtfgltslckjjjdllpmysofm2t56ibmda/index-v1-a1.m3u8
 
-#EXTINF: -1 tvg-shift = 30 tvg-name = "Nick Clásico" tvg-logo = "https://i.vimeocdn.com/video/925290501_1280x720.jpg", Nick Clásico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=44b4cb2e-1151-43e8-aaf0-632f706071c8&deviceVersion=86.0.4240.198&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&deviceType=web&deviceMake=Chrome&sid=ea623781-3836-11eb-813b-0242ac110002&advertisingId=&deviceLat=24.5668&deviceLon=-107.3843&deviceDNT=0&deviceModel=Chrome&userId=&appName=web
