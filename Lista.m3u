@@ -1,7 +1,7 @@
 # EXTM3U
 
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
-https://vod-l3c-na-south-2.media.dssott.com/oswald/ps01/disney/5dd29ce3-d516-482d-8f2c-e145a49212c5/r/composite_4250k_CENC_CTR_FHD_SDR_8d902ef3-254e-493b-b710-736715b2d3dd_fc1fddfd-1013-4d79-bc92-475d480819ea.m3u8
+http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8  
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
 https://live.televisiongratishd.com/tvplus2021/112_.m3u8?token=SyR2Fsaj8EYZG6RkMRMHdg&expires=1606620712
