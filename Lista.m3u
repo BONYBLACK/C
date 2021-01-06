@@ -3,7 +3,7 @@
 #EXTINF: -1 tvg-shift = 1 tvg-name = "Nickelodeon" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
 http://srregio.net/Sr_Regio151120/tp.php?c=110&p=3&k=srregio&f=.m3u8  
 
-#EXTINF: -1 tvg-shift = 1 tvg-name = "iCarly" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", Nickelodeon
+#EXTINF: -1 tvg-shift = 1 tvg-name = "iCarly" tvg-logo = "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nickelodeon.es/logo.png?height=125&width=314&matte=true", iCarly
 https://www1552.ff-04.com/token=vAi5ptuDHb7YtbSKQAZd8A/1609930720/200.68.0.0/16/1/29/fee436361cbe9bb25f3cb8e20677b291-720p.mp4
 
 #EXTINF: -1 tvg-shift = 2 tvg-name = "Nick Jr" tvg-logo = "https://www.conecta.es/images/noticias/VIACOM/Nick-Junior.jpg", Nick Jr
