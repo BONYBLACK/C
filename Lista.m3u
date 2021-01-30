@@ -13,8 +13,12 @@ https://hetz05.stor.loadx.me//download/users/AhSWxuQFIJ/xbefmRtKnjQ/25f651af145a
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2020/12/icarly-nueva-temporada-paramount-plus-2021-elenco-original-anuncio-3-920x460.jpg" group-title="iCarly. Temporada 1", iCarly. Temporada 1, Capítulo 01 - Piloto
 https://scontent.fhmo2-2.fna.fbcdn.net/v/t66.36240-6/10000000_417092923054438_2173968160639375439_n.mp4?_nc_cat=102&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_eui2=AeF8pWcVdAdrDk58WTboo4e90MYajX4u5m_QxhqNfi7mbw59UWpXqZIDpYe76gTvPjfmrNLOfq0U9b-li2gHa1Zb&_nc_ohc=iWX_9RNzpH4AX8_aeek&_nc_zt=28&_nc_ht=scontent.fhmo2-2.fna&oh=9ba3f4fe9bd066eefae61e80100d5b6e&oe=6038EB8F
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Prueba Nick
+---- Canales Para Tv ----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", Nick [SD]
 https://live.televisiongratishd.com/tvplus2022/110_.m3u8?token=YJQniWYubxXIhrRx7nI5qA&expires=1612001674&ip=200.68.151.29
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO - Prueba
+http://89.105.194.59:25461/live/1spTG2!X/1spTG2!X/24.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELECLUB.XYZ" tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="1TV", Latino | Teleclub!
 https://ia601401.us.archive.org/23/items/teleclub-anuncio/anuncio.mp4
