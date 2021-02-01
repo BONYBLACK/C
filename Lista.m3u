@@ -1,5 +1,28 @@
 #EXT#EXTM3U url-tvg="https://tv.teleclub.xyz/epg-latino"
 
+
+
+
+---- Canales Para Tv ----
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", Nick [TV]
+https://live.televisiongratishd.com/tvplus2022/110_.m3u8?token=OM4qFwqg5k7FoezZauzBpw&expires=1612145048&ip=2806:269:401:124f:60e9:570d:dd9c:f453
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO
+http://89.105.194.59:25461/live/1spTG2!X/1spTG2!X/24.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO PRUEBA
+https://live.televisiongratishd.com/tvplus2022/31_7300.ts
+
+---- Big Time Rush ----
+
+#EXTINF:-1 tvg-logo="https://info7rm.blob.core.windows.net.optimalcdn.com/images/2016/11/09/447952_bigtime.jpg" group-title="Big Time Rush", Big Time Rush. Temporada 1, Capítulo 01 - Big Time Audition
+https://s805.clipwatching.com/hls/zx5x2uqrj52dxcne425d3rxori5oqzwytyaqcjjdhh6bq62ur5qwjqeu767a/index-v1-a1.m3u8
+
+---- Kick Buttowski ----
+
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/9401909/s1440/kick-buttowski-suburban-daredevil" group-title="Kick Buttowski", Kick Buttowski. Temporada 1, Capítulo 01 - La Colina del Muerto / Billy Stumps
+https://hetz05.stor.loadx.me//download/users/AhSWxuQFIJ/o6uBY661D6o/5cb351c076e38aa6f84c8c6d2d96f79d.mp4?token=nZUVLKQM8ogCjCU6drIV7Q&expires=1612017412&p=//users/AhSWxuQFIJ/o6uBY661D6o/5cb351c076e38aa6f84c8c6d2d96f79d.mp4+
+
 ---- Bob Esponja ----
 
 #EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2020/03/13/fotos/Bob-Esponja_2212888749_14803139_660x371.png" group-title="Bob Esponja. Temporada 1", Bob Esponja. Temporada 1, Capítulo 01 - Se Busca Ayudante
@@ -63,24 +86,6 @@ https://vbdrm.mcloud2.to/b1cc2175c03d366ba46cf07bd27880b0dd3a0d3b0b7cd98315e4633
 #EXTINF:-1 tvg-logo="http://static.bunnycdn.ru/i/cache/images/d/d3/d3d59d7ea14a7c8d93ffd7a867e3b9f9.jpg" group-title="Zoey 101 En Inglés", Temporada 1, Capítulo 13 - Pequeña Fiesta En La Playa
 https://qejv.mcloud2.to/f3924d7c38a34f0b892a671d845685c96c8dd6c23c60fea70a6308dd8342c5458ac84fb3ee9ba37e7828be26fad5e9f77cc52aaa0fe1a24c0c1be88402af1f84504826079d68a7cc68884f3b05c1e9ef3f38624dedbaeef1278cfd58263832fff50bd81b2d9baa4a0845de8e045bb5df8230bce589c357abb3dfefa9f8596a16/m/hls/360/360.m3u8
 
-
-
-
-
----- Canales Para Tv ----
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", Nick [TV]
-https://live.televisiongratishd.com/tvplus2022/110_.m3u8?token=OM4qFwqg5k7FoezZauzBpw&expires=1612145048&ip=2806:269:401:124f:60e9:570d:dd9c:f453
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO
-http://89.105.194.59:25461/live/1spTG2!X/1spTG2!X/24.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO PRUEBA
-https://live.televisiongratishd.com/tvplus2022/31_7300.ts
-
----- Kick Buttowski ----
-
-#EXTINF:-1 tvg-logo="https://images.justwatch.com/backdrop/9401909/s1440/kick-buttowski-suburban-daredevil" group-title="Kick Buttowski", Kick Buttowski. Temporada 1, Capítulo 01 - La Colina del Muerto / Billy Stumps
-https://hetz05.stor.loadx.me//download/users/AhSWxuQFIJ/o6uBY661D6o/5cb351c076e38aa6f84c8c6d2d96f79d.mp4?token=nZUVLKQM8ogCjCU6drIV7Q&expires=1612017412&p=//users/AhSWxuQFIJ/o6uBY661D6o/5cb351c076e38aa6f84c8c6d2d96f79d.mp4+
 
 -Prueba-
 
