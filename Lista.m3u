@@ -5,7 +5,7 @@
 
 ---- Canales Para Tv ----
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", TeenNick
-https://tv.teleclub.xyz/noah/live-channel?latino=TEENNICK_HD&format=.m3u8
+https://tv.teleclub.xyz/kyle/live-channels?canaltv=TEENNICK&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", HBO
 http://89.105.194.59:25461/live/1spTG2!X/1spTG2!X/24.m3u8
